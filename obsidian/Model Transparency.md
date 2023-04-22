@@ -1,0 +1,8 @@
+- NeuroRule
+- Trepan
+- LIME
+	- Interpretable data representation
+	- Local fidelity
+	- Model agnostic
+	- Sampling
+	- Sparse linear explanations

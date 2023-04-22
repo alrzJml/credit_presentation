@@ -1,0 +1,11 @@
+- k-Nearest Neighbor (k-NN)
+- Decision Trees (DTs)
+- Support Vector Machines (SVMs)
+- Artificial Neural Networks (ANNs)
+- Random Forests (RFs)
+- Boosting, Extreme Gradient Boost (XGBoost)
+- Bagging
+- Restricted Boltzmann Machines (RBMs)
+- Deep Multi-Layer Perceptron (DMLP)
+- Convolutional Neural Networks (CNNs)
+- Deep Belief Neural Networks (DBNs)

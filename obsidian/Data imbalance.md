@@ -1,0 +1,2 @@
+- Self-Organizing Map-based Oversampling (SOMO)
+- Synthetic Minority Over-sampling Technique (SMOTE)

@@ -1,0 +1,3 @@
+- Linear Discriminant Analysis (LDA)
+- Logistic Regression (LR)
+- Naïve Bayes (NB)

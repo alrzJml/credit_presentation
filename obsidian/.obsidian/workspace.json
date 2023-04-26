@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Limitations.md",
+                "file": "Feature Selection & Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Limitations.md",
+                "file": "Feature Selection & Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Limitations.md",
+                "file": "Feature Selection & Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model Limitations.md"
+                "file": "Feature Selection & Engineering.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "6f7674386628ce5d",
   "lastOpenFiles": [
-    "Model Transparency.md",
-    "Model Limitations.md",
-    "Data imbalance.md",
     "Statistical Techniques.md",
     "Feature Selection & Engineering.md",
+    "ML Techniques.md",
+    "Model Transparency.md",
+    "Model Limitations.md",
     "Evaluation Metrics.md",
-    "Methods.md",
-    "ML Techniques.md"
+    "Data imbalance.md",
+    "Methods.md"
   ]
 }

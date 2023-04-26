@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Selection & Engineering.md",
+                "file": "ML Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feature Selection & Engineering.md",
+                "file": "ML Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feature Selection & Engineering.md",
+                "file": "ML Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feature Selection & Engineering.md"
+                "file": "ML Techniques.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "6f7674386628ce5d",
   "lastOpenFiles": [
-    "Statistical Techniques.md",
     "Feature Selection & Engineering.md",
-    "ML Techniques.md",
+    "Evaluation Metrics.md",
+    "Statistical Techniques.md",
     "Model Transparency.md",
     "Model Limitations.md",
-    "Evaluation Metrics.md",
+    "ML Techniques.md",
     "Data imbalance.md",
     "Methods.md"
   ]
